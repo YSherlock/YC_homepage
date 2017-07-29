@@ -1,0 +1,60 @@
+@charset "UTF-8";
+.container{
+	font-family: '幼圆';
+	position: relative;
+	height: 828px;
+	width: 1920px;
+	background-color: #727272;
+}
+.row-1{
+	position:absolute;
+	top: 50%;
+ 	left: 50%;
+ 	transform: translate(-50%, -50%);
+}
+.container-yc{
+	font-size: 105px;
+	color: #ffffff;
+	text-align: center;	
+}
+.container-ad{
+	font-size: 50px;
+	color: #ffffff;	
+}
+.all-1{
+	font-size: 24px;
+	color: #ffffff;
+	text-align: center;
+}
+.all-2{
+	font-size: 16px;
+	color: #ffffff;
+	text-align: center;
+}
+.container-1{
+	width: 1920px;
+	height: 310px;
+}
+.introduce{
+	float: left;
+	position: relative;
+	width: 640px;
+	height: 310px;
+	background-color: #1586EA;
+}
+.patent{
+	float: left;
+	position: relative;
+	width: 640px;
+	height: 310px;
+	background-color: #1B76D1;
+}
+.challenge-cup{
+	float: right;
+	position: relative;
+	width: 640px;
+	height: 310px;
+	background-color: #0468CA;
+}
+
+
