@@ -1,0 +1,4 @@
+@charset "UTF-8";
+body{padding: 0;margin: 0;font-family: '幼圆';}
+.copyright{width: 1920px;height: 50px;position: fixed;bottom: 0;}
+.copyright-text{width: 500px;height: 15px;margin: 0 auto;text-align: center;}
