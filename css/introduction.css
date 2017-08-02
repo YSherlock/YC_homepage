@@ -1,0 +1,80 @@
+@charset "UTF-8";
+.introduction{
+	font-family: '幼圆';
+	position: relative;
+	height: 552px;
+	width: 1920px;
+	background-color: #FFFFFF;
+}
+.center{
+	position:absolute;
+	top: 50%;
+ 	left: 50%;
+ 	transform: translate(-50%, -50%);
+}
+.in-content{
+	height: 400px;
+	width: 1000px;
+	font-size: 50px;
+	color: #333333;
+	text-align: center;
+	font-family: '幼圆';
+}
+.game{
+	float: left;
+	position: relative;
+	border-radius:50%;
+	font-size: 50px;
+	font-family: '幼圆';
+	color: #ffffff;
+	background-color: #727272;
+	width: 250px;
+	height: 250px;
+	display:flex;
+     justify-content:center;
+     align-items: center;
+	}
+.recent{
+	float: right;
+	position: relative;
+	width: 700px;
+	height: 250px;
+
+}
+.recent-border{
+	height: 250px;
+	width: 700px;
+	background-color: #FFFFFF;
+}
+.shadow{ 
+	box-shadow: 0 0 3px #000;
+}
+.join-us{
+	position: relative;
+	width: 1920px;
+	height: 700px;
+	background-color: #727272;
+}
+.join-us-content{
+	height: 400px;
+	width: 1920px;
+}
+.join-us-row-1{
+	font-size: 35px;
+	color: #ffffff;
+	text-align: center;
+}
+.join-us-row-2{
+	font-size: 50px;
+	color: #ffffff;
+	text-align: center;
+}
+.join-us-button{
+	font-size: 50px;
+	color: #ffffff;
+	background-color: #0066CC;
+	height: 100px;
+	width: 360px;
+	border-radius:50px 50px 50px 50px;
+	border: none;
+}
