@@ -1,4 +1,4 @@
-@charset "UTF-8";
+﻿@charset "UTF-8";
    body{padding: 0;margin: 0;font-family:'幼圆';}
   .navi{height: 50px;width: 100%;background-color: #111111;margin-left: 0px;padding: 0;float: left;position: absolute;z-index: 99;}
   .navi a{text-decoration: none;color: white}
@@ -250,7 +250,7 @@ ul, ol { padding: 0;}
 .banner { position: relative; overflow: auto; text-align: center;}
 .banner li { list-style: none; }
 .banner ul li { float: left; }
-#b04 { width: 620px;}
+#b04 { width: 50%;}
 #b04 .dots { position: absolute; left: 0; right: 0; bottom: 0px;}
 #b04 .dots li 
 { 
@@ -332,14 +332,15 @@ ul, ol { padding: 0;}
 }
 .banner-1{
   position: relative;
-  width: 1235px;
+  width: 92%;
   margin: 0 auto;
+    height: 487px;
 }
 .banner-1.banner{
   position: relative;
 }
 .black-1{
-  width: 570px;
+  width: 45%;
   height: 484px;
   position: relative;
   float: right;
@@ -354,14 +355,15 @@ ul, ol { padding: 0;}
 }
 .banner-2{
   position: relative;
-  width: 1235px;
+  width: 92%;
   margin: 0 auto;
+    height: 487px;
 }
 .banner-2.banner{
   position: relative; 
 }
 .black-2{
-  width: 570px;
+  width: 45%;
   height: 484px;
   position: relative;
   background-color: #FFFFFF;
